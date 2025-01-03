@@ -1,2 +1,2 @@
-# Frog-cross-the-road
+# FrogCrossTheRoad
 A Practice Game Project
