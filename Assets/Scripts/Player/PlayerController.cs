@@ -17,7 +17,7 @@ public class PlayerController : MonoBehaviour
     //控制移动
     private bool isJump;
     //控制动画
-    private bool canJump;
+    private bool canJump = false;
 
     private void Awake()
     {
